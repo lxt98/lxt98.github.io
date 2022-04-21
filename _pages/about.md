@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 ---
-<br>I'm a 2nd year Ph.D. student based at [Tsinghua University](https://www.dess.tsinghua.edu.cn/en/), China and a visiting student at [Texas Tech university](https://www.depts.ttu.edu/geosciences/), USA.
+<br>I'm a 2nd year Ph.D. student based at [Tsinghua University](https://www.dess.tsinghua.edu.cn/en/), China and a visiting student at [Texas Tech University](https://www.depts.ttu.edu/geosciences/), USA.
 
 
 <h2>research interests</h2>
