@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+start: 2022-02-02
+end: 2023-02-05
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<font size=4>Visiting Ph.D. student, Department of Geosciences, Texas Tech University, Texas, USA.<br>Co-supervised by  <a href="https://scholar.google.com/citations?user=SIQ6ND4AAAAJ&hl=en">Dr. Song, Xiao-peng</a></font>
